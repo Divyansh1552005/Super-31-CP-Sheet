@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png" alt="Codeforces" height="80">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="80">
+  <img src="https://img.atcoder.jp/assets/atcoder.png" alt="AtCoder" height="90" width = "100">
 </p>
 
 <br/>
@@ -36,7 +36,7 @@ This will help in Online Assessments (OAs), Interviews, and competitive contests
 
 - Codeforces: [Divyansh1552005](https://codeforces.com/profile/Divyansh1552005)
 - AtCoder : [Divyansh1552005](https://atcoder.jp/users/divyansh1552005)
-- GitHub CP Repo: [CP-Solutions](https://github.com/YourUsername/CP-Solutions)
+- GitHub CP Repo: [CP-Solutions](https://github.com/Divyansh1552005/Super-31-CP-Sheet)
 
 ---
 
