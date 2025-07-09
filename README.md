@@ -36,7 +36,7 @@ This will help in Online Assessments (OAs), Interviews, and competitive contests
 
 - Codeforces: [Divyansh1552005](https://codeforces.com/profile/Divyansh1552005)
 - AtCoder : [Divyansh1552005](https://atcoder.jp/users/divyansh1552005)
-- GitHub CP Repo: [CP-Solutions](https://github.com/YourUsername/CP-Solutions)
+- GitHub CP Repo: [CP-Solutions](https://github.com/Divyansh1552005/Super-31-CP-Sheet)
 
 ---
 
