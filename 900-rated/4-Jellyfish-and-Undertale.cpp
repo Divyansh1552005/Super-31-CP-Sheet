@@ -12,7 +12,7 @@ int main(){
         
         for (int i = 0; i < n; i++) cin >> x[i];
 
-        long long maximum_time = b;
+        long long maximum_time = b; 
 
         for (int i = 0; i < n; i++) maximum_time += min(x[i], a - 1);
  
